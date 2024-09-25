@@ -1,0 +1,15 @@
+{
+  "name": "ciufciuf",
+  "displayName": "CiufCiuf",
+  "description": "This extension is maded for format correctly all the code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "publisher.extensionName"
+  ]
+}
